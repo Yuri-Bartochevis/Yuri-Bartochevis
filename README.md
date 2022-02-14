@@ -4,7 +4,7 @@
 
 <p> 
 👨‍🎓 Degree in Database Technologies <br/>
-👨‍🎓 Masters in Full-stack development <br/> 
+👨‍🎓 Master in Full-stack development <br/> 
 :heart_on_fire: Passionate about infrastructure and monitoring
 </p>
 
