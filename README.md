@@ -13,6 +13,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
  - [How to setup ELK](https://medium.com/@ybartochevis/how-to-set-up-your-monitor-environment-with-elk-ba28260e6c6c)
+ - [Getting familiar with coroutines](https://www.linkedin.com/pulse/getting-familiar-kotlin-coroutines-yuri-lenzi-bartochevis)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
